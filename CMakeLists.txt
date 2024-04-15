@@ -31,7 +31,7 @@ else()
     option(BUILD_TEST_PLUGIN "Build a test plugin" ON)
 endif()
 
-find_package(QT NAMES Qt6 Qt5 REQUIRED COMPONENTS Widgets Svg Multimedia Network TextToSpeech Concurrent)
+find_package(QT NAMES Qt5 REQUIRED COMPONENTS Widgets Svg Multimedia Network TextToSpeech Concurrent)
 find_package(Qt${QT_VERSION_MAJOR} REQUIRED COMPONENTS Widgets Svg Multimedia Network TextToSpeech Concurrent)
 
 file(GLOB TS_FILES translations/VoiceAssistant_*.ts)
