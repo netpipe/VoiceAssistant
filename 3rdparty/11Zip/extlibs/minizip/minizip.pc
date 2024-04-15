@@ -1,0 +1,14 @@
+prefix=/opt/VoiceAssistant
+exec_prefix=/opt/VoiceAssistant
+libdir=/opt/VoiceAssistant/lib64
+sharedlibdir=/opt/VoiceAssistant/lib64
+includedir=/opt/VoiceAssistant/include/minizip
+
+Name: minizip
+Description: Zip manipulation library
+Version: 4.0.3
+
+Requires.private: zlib
+Libs: -L${libdir} -L${sharedlibdir} -lminizip
+Libs.private:
+Cflags: -I${includedir}

@@ -1,0 +1,14 @@
+/home/netpipe/Desktop/VoiceAssistant/3rdparty/11Zip/CMakeFiles/install/strip.dir
+/home/netpipe/Desktop/VoiceAssistant/3rdparty/11Zip/CMakeFiles/install.dir
+/home/netpipe/Desktop/VoiceAssistant/3rdparty/11Zip/CMakeFiles/list_install_components.dir
+/home/netpipe/Desktop/VoiceAssistant/3rdparty/11Zip/CMakeFiles/rebuild_cache.dir
+/home/netpipe/Desktop/VoiceAssistant/3rdparty/11Zip/CMakeFiles/edit_cache.dir
+/home/netpipe/Desktop/VoiceAssistant/3rdparty/11Zip/CMakeFiles/install/local.dir
+/home/netpipe/Desktop/VoiceAssistant/3rdparty/11Zip/CMakeFiles/elzip.dir
+/home/netpipe/Desktop/VoiceAssistant/3rdparty/11Zip/extlibs/minizip/CMakeFiles/install/strip.dir
+/home/netpipe/Desktop/VoiceAssistant/3rdparty/11Zip/extlibs/minizip/CMakeFiles/install/local.dir
+/home/netpipe/Desktop/VoiceAssistant/3rdparty/11Zip/extlibs/minizip/CMakeFiles/install.dir
+/home/netpipe/Desktop/VoiceAssistant/3rdparty/11Zip/extlibs/minizip/CMakeFiles/list_install_components.dir
+/home/netpipe/Desktop/VoiceAssistant/3rdparty/11Zip/extlibs/minizip/CMakeFiles/rebuild_cache.dir
+/home/netpipe/Desktop/VoiceAssistant/3rdparty/11Zip/extlibs/minizip/CMakeFiles/edit_cache.dir
+/home/netpipe/Desktop/VoiceAssistant/3rdparty/11Zip/extlibs/minizip/CMakeFiles/minizip.dir

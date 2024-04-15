@@ -1,0 +1,215 @@
+{
+	"BUILD_DIR" : "/home/netpipe/Desktop/VoiceAssistant/3rdparty/11Zip/extlibs/minizip/minizip_autogen",
+	"CMAKE_BINARY_DIR" : "/home/netpipe/Desktop/VoiceAssistant",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/netpipe/Desktop/VoiceAssistant/3rdparty/11Zip/extlibs/minizip",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/netpipe/Desktop/VoiceAssistant/3rdparty/11Zip/extlibs/minizip",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/home/netpipe/Desktop/VoiceAssistant/3rdparty/11Zip/extlibs/minizip/CMakeLists.txt",
+		"/usr/share/cmake/Modules/CMakeDependentOption.cmake",
+		"/usr/share/cmake/Modules/CheckLibraryExists.cmake",
+		"/usr/share/cmake/Modules/CheckSymbolExists.cmake",
+		"/usr/share/cmake/Modules/CheckFunctionExists.cmake",
+		"/usr/share/cmake/Modules/CheckIncludeFile.cmake",
+		"/usr/share/cmake/Modules/CheckIncludeFiles.cmake",
+		"/usr/share/cmake/Modules/CheckCSourceCompiles.cmake",
+		"/usr/share/cmake/Modules/Internal/CheckSourceCompiles.cmake",
+		"/usr/share/cmake/Modules/CheckTypeSize.cmake",
+		"/usr/share/cmake/Modules/CheckIncludeFile.cmake",
+		"/usr/share/cmake/Modules/CheckIncludeFileCXX.cmake",
+		"/usr/share/cmake/Modules/GNUInstallDirs.cmake",
+		"/usr/share/cmake/Modules/FeatureSummary.cmake",
+		"/home/netpipe/Desktop/VoiceAssistant/3rdparty/11Zip/extlibs/minizip/cmake/detect-sanitizer.cmake",
+		"/home/netpipe/Desktop/VoiceAssistant/3rdparty/11Zip/extlibs/minizip/cmake/clone-repo.cmake",
+		"/home/netpipe/Desktop/VoiceAssistant/3rdparty/11Zip/extlibs/minizip/cmake/FindZLIBNG.cmake",
+		"/usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+		"/usr/share/cmake/Modules/FindPackageMessage.cmake",
+		"/usr/share/cmake/Modules/FindZLIB.cmake",
+		"/usr/share/cmake/Modules/SelectLibraryConfigurations.cmake",
+		"/usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+		"/usr/share/cmake/Modules/FindPackageMessage.cmake",
+		"/home/netpipe/Desktop/VoiceAssistant/3rdparty/11Zip/extlibs/minizip/mz_compat_shim.h.in",
+		"/home/netpipe/Desktop/VoiceAssistant/3rdparty/11Zip/extlibs/minizip/mz_compat_shim.h.in",
+		"/home/netpipe/Desktop/VoiceAssistant/3rdparty/11Zip/extlibs/minizip/mz_compat_shim.h.in",
+		"/home/netpipe/Desktop/VoiceAssistant/3rdparty/11Zip/extlibs/minizip/minizip.pc.cmakein",
+		"/usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+		"/usr/share/cmake/Modules/WriteBasicConfigVersionFile.cmake",
+		"/usr/share/cmake/Modules/BasicConfigVersion-SameMajorVersion.cmake.in",
+		"/home/netpipe/Desktop/VoiceAssistant/3rdparty/11Zip/extlibs/minizip/minizip-config.cmake.in"
+	],
+	"CMAKE_SOURCE_DIR" : "/home/netpipe/Desktop/VoiceAssistant",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"/home/netpipe/Desktop/VoiceAssistant/3rdparty/11Zip/extlibs/minizip/ioapi.h",
+			"mU",
+			"",
+			null
+		],
+		[
+			"/home/netpipe/Desktop/VoiceAssistant/3rdparty/11Zip/extlibs/minizip/mz.h",
+			"mU",
+			"",
+			null
+		],
+		[
+			"/home/netpipe/Desktop/VoiceAssistant/3rdparty/11Zip/extlibs/minizip/mz_compat.h",
+			"mU",
+			"",
+			null
+		],
+		[
+			"/home/netpipe/Desktop/VoiceAssistant/3rdparty/11Zip/extlibs/minizip/mz_crypt.h",
+			"mU",
+			"",
+			null
+		],
+		[
+			"/home/netpipe/Desktop/VoiceAssistant/3rdparty/11Zip/extlibs/minizip/mz_os.h",
+			"mU",
+			"",
+			null
+		],
+		[
+			"/home/netpipe/Desktop/VoiceAssistant/3rdparty/11Zip/extlibs/minizip/mz_strm.h",
+			"mU",
+			"",
+			null
+		],
+		[
+			"/home/netpipe/Desktop/VoiceAssistant/3rdparty/11Zip/extlibs/minizip/mz_strm_buf.h",
+			"mU",
+			"",
+			null
+		],
+		[
+			"/home/netpipe/Desktop/VoiceAssistant/3rdparty/11Zip/extlibs/minizip/mz_strm_mem.h",
+			"mU",
+			"",
+			null
+		],
+		[
+			"/home/netpipe/Desktop/VoiceAssistant/3rdparty/11Zip/extlibs/minizip/mz_strm_os.h",
+			"mU",
+			"",
+			null
+		],
+		[
+			"/home/netpipe/Desktop/VoiceAssistant/3rdparty/11Zip/extlibs/minizip/mz_strm_split.h",
+			"mU",
+			"",
+			null
+		],
+		[
+			"/home/netpipe/Desktop/VoiceAssistant/3rdparty/11Zip/extlibs/minizip/mz_strm_zlib.h",
+			"mU",
+			"",
+			null
+		],
+		[
+			"/home/netpipe/Desktop/VoiceAssistant/3rdparty/11Zip/extlibs/minizip/mz_zip.h",
+			"mU",
+			"",
+			null
+		],
+		[
+			"/home/netpipe/Desktop/VoiceAssistant/3rdparty/11Zip/extlibs/minizip/mz_zip_rw.h",
+			"mU",
+			"",
+			null
+		],
+		[
+			"/home/netpipe/Desktop/VoiceAssistant/3rdparty/11Zip/extlibs/minizip/unzip.h",
+			"mU",
+			"",
+			null
+		],
+		[
+			"/home/netpipe/Desktop/VoiceAssistant/3rdparty/11Zip/extlibs/minizip/zip.h",
+			"mU",
+			"",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/netpipe/Desktop/VoiceAssistant/3rdparty/11Zip/extlibs/minizip/minizip_autogen/include",
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 2,
+	"PARSE_CACHE_FILE" : "/home/netpipe/Desktop/VoiceAssistant/3rdparty/11Zip/extlibs/minizip/CMakeFiles/minizip_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "",
+	"QT_UIC_EXECUTABLE" : "/usr/lib64/qt5/bin/uic",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "/home/netpipe/Desktop/VoiceAssistant/3rdparty/11Zip/extlibs/minizip/CMakeFiles/minizip_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/home/netpipe/Desktop/VoiceAssistant/3rdparty/11Zip/extlibs/minizip/mz_compat.c",
+			"mU",
+			null
+		],
+		[
+			"/home/netpipe/Desktop/VoiceAssistant/3rdparty/11Zip/extlibs/minizip/mz_crypt.c",
+			"mU",
+			null
+		],
+		[
+			"/home/netpipe/Desktop/VoiceAssistant/3rdparty/11Zip/extlibs/minizip/mz_os.c",
+			"mU",
+			null
+		],
+		[
+			"/home/netpipe/Desktop/VoiceAssistant/3rdparty/11Zip/extlibs/minizip/mz_os_posix.c",
+			"mU",
+			null
+		],
+		[
+			"/home/netpipe/Desktop/VoiceAssistant/3rdparty/11Zip/extlibs/minizip/mz_strm.c",
+			"mU",
+			null
+		],
+		[
+			"/home/netpipe/Desktop/VoiceAssistant/3rdparty/11Zip/extlibs/minizip/mz_strm_buf.c",
+			"mU",
+			null
+		],
+		[
+			"/home/netpipe/Desktop/VoiceAssistant/3rdparty/11Zip/extlibs/minizip/mz_strm_mem.c",
+			"mU",
+			null
+		],
+		[
+			"/home/netpipe/Desktop/VoiceAssistant/3rdparty/11Zip/extlibs/minizip/mz_strm_os_posix.c",
+			"mU",
+			null
+		],
+		[
+			"/home/netpipe/Desktop/VoiceAssistant/3rdparty/11Zip/extlibs/minizip/mz_strm_split.c",
+			"mU",
+			null
+		],
+		[
+			"/home/netpipe/Desktop/VoiceAssistant/3rdparty/11Zip/extlibs/minizip/mz_strm_zlib.c",
+			"mU",
+			null
+		],
+		[
+			"/home/netpipe/Desktop/VoiceAssistant/3rdparty/11Zip/extlibs/minizip/mz_zip.c",
+			"mU",
+			null
+		],
+		[
+			"/home/netpipe/Desktop/VoiceAssistant/3rdparty/11Zip/extlibs/minizip/mz_zip_rw.c",
+			"mU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [ "/home/netpipe/Desktop/VoiceAssistant/ui" ],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}
